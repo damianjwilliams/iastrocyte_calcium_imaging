@@ -1,0 +1,1 @@
+This repository contains calcium imaging analysis ImageJ macros and R scripts. This code is used in the validation of iAstrocytes described in XXX. More details can be found in the code annotations and the corresponding paper.
